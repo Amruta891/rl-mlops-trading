@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+mlruns/
+logs/
+*.log
+models/best_model.zip
+models/scaler.pkl
+models/vec_normalize.pkl
